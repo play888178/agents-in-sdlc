@@ -49,7 +49,10 @@ Tailspin Toys 프로젝트의 복사본을 사용해 작업합니다. 지금 [�
 
 ## 요약 및 다음 단계
 
-준비가 끝났습니다. 이 레슨에서는 템플릿에서 Tailspin Toys 프로젝트의 복사본을 만들고 Codespace를 준비했습니다.
+준비가 끝났습니다. 이 레슨에서는 다음 작업을 완료했습니다.
+
+- 템플릿에서 Tailspin Toys 프로젝트의 복사본을 만들었습니다.
+- Codespace를 만들고 프로젝트가 준비되었는지 확인했습니다.
 
 다음으로 Codespace에 [GitHub Copilot CLI를 설치][next-lesson]하고 GitHub 계정으로 인증합니다.
 
